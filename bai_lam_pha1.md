@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:Hoàng Hải Yến**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/hoanghaiyen0108anlao-dev/HN-KS26-CNTT2_PromtAI_H02_Pha1-Pha2.git**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
